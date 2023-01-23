@@ -1,0 +1,31 @@
+
+
+.primary-btn{
+          background-image: linear-gradient(to right, red,orange);
+}
+
+.first-card{
+          background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
+          border-radius: 10px;
+}
+
+.pink-grad{
+          background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+          opacity: 0.2;
+          border-radius: 15px;
+}
+
+.g-tea{
+          background: rgba(87, 118, 57, 0.3);
+          border-radius: 15px;
+          margin-top: 15px;
+}
+
+.white-grad{
+          background: linear-gradient(90deg, #D9D9D9 0%, rgba(255, 255, 255, 0) 100%);border-radius: 10px;
+}
+
+.footer-grad{
+          background-color: #fbcaa9;
+          border-radius: 10px;
+}
